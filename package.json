@@ -1,0 +1,25 @@
+{
+  "name": "token_bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonYu1010/token-bridge.git"
+  },
+  "author": "David Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonYu1010/token-bridge/issues"
+  },
+  "homepage": "https://github.com/DragonYu1010/token-bridge#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "fs": "0.0.1-security",
+    "web3": "^1.3.6"
+  }
+}
